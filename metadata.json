@@ -1,0 +1,6 @@
+{
+  "name": "Pest Control Baltimore Solution",
+  "description": "Premier residential and commercial pest control services in Baltimore, MD. Fast dispatch, eco-friendly extermination, rodent control, termite inspection, and bed bug elimination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
